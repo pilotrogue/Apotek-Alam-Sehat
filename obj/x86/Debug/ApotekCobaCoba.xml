@@ -1,0 +1,204 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ApotekCobaCoba
+</name>
+</assembly>
+<members>
+<member name="T:AplikasiApotek.DB_PembelianDataSet.Switchboard_ItemsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AplikasiApotek.DB_PembelianDataSet.T_JenisDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AplikasiApotek.DB_PembelianDataSet.T_KasirDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AplikasiApotek.DB_PembelianDataSet.T_ObatDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AplikasiApotek.DB_PembelianDataSet.T_PelunasanDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AplikasiApotek.DB_PembelianDataSet.T_PembelianDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AplikasiApotek.DB_PembelianDataSet.T_Pembelian_itemDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AplikasiApotek.DB_PembelianDataSet.T_SupplierDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AplikasiApotek.DB_PembelianDataSet.TbJurnalDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AplikasiApotek.DB_PembelianDataSet.Switchboard_ItemsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AplikasiApotek.DB_PembelianDataSet.T_JenisRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AplikasiApotek.DB_PembelianDataSet.T_KasirRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AplikasiApotek.DB_PembelianDataSet.T_ObatRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AplikasiApotek.DB_PembelianDataSet.T_PelunasanRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AplikasiApotek.DB_PembelianDataSet.T_PembelianRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AplikasiApotek.DB_PembelianDataSet.T_Pembelian_itemRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AplikasiApotek.DB_PembelianDataSet.T_SupplierRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AplikasiApotek.DB_PembelianDataSet.TbJurnalRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AplikasiApotek.DB_PembelianDataSet.Switchboard_ItemsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AplikasiApotek.DB_PembelianDataSet.T_JenisRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AplikasiApotek.DB_PembelianDataSet.T_KasirRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AplikasiApotek.DB_PembelianDataSet.T_ObatRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AplikasiApotek.DB_PembelianDataSet.T_PelunasanRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AplikasiApotek.DB_PembelianDataSet.T_PembelianRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AplikasiApotek.DB_PembelianDataSet.T_Pembelian_itemRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AplikasiApotek.DB_PembelianDataSet.T_SupplierRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AplikasiApotek.DB_PembelianDataSet.TbJurnalRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AplikasiApotek.DB_PembelianDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:AplikasiApotek.DB_PembelianDataSetTableAdapters.Switchboard_ItemsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AplikasiApotek.DB_PembelianDataSetTableAdapters.T_JenisTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AplikasiApotek.DB_PembelianDataSetTableAdapters.T_KasirTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AplikasiApotek.DB_PembelianDataSetTableAdapters.T_ObatTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AplikasiApotek.DB_PembelianDataSetTableAdapters.T_PelunasanTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AplikasiApotek.DB_PembelianDataSetTableAdapters.T_PembelianTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AplikasiApotek.DB_PembelianDataSetTableAdapters.T_Pembelian_itemTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AplikasiApotek.DB_PembelianDataSetTableAdapters.T_SupplierTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AplikasiApotek.DB_PembelianDataSetTableAdapters.TbJurnalTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:AplikasiApotek.DB_PembelianDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(AplikasiApotek.DB_PembelianDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:AplikasiApotek.DB_PembelianDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(AplikasiApotek.DB_PembelianDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:AplikasiApotek.DB_PembelianDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(AplikasiApotek.DB_PembelianDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:AplikasiApotek.DB_PembelianDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:AplikasiApotek.DB_PembelianDataSetTableAdapters.TableAdapterManager.UpdateAll(AplikasiApotek.DB_PembelianDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:AplikasiApotek.DB_PembelianDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:AplikasiApotek.DB_PembelianDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:AplikasiApotek.DB_PembelianDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:AplikasiApotek.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:AplikasiApotek.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:AplikasiApotek.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,631 @@
+D:\Backup Laptop\Documents\Visual Studio 2010\Projects\#Project Apotek Belajar\ApotekCobaCoba\ApotekCobaCoba\bin\Debug\ApotekCobaCoba.exe
+D:\Backup Laptop\Documents\Visual Studio 2010\Projects\#Project Apotek Belajar\ApotekCobaCoba\ApotekCobaCoba\bin\Debug\ApotekCobaCoba.pdb
+D:\Backup Laptop\Documents\Visual Studio 2010\Projects\#Project Apotek Belajar\ApotekCobaCoba\ApotekCobaCoba\bin\Debug\ApotekCobaCoba.xml
+D:\Backup Laptop\Documents\Visual Studio 2010\Projects\#Project Apotek Belajar\ApotekCobaCoba\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.Home.resources
+D:\Backup Laptop\Documents\Visual Studio 2010\Projects\#Project Apotek Belajar\ApotekCobaCoba\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FORM_LOGIN.resources
+D:\Backup Laptop\Documents\Visual Studio 2010\Projects\#Project Apotek Belajar\ApotekCobaCoba\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.Resources.resources
+D:\Backup Laptop\Documents\Visual Studio 2010\Projects\#Project Apotek Belajar\ApotekCobaCoba\ApotekCobaCoba\obj\x86\Debug\ApotekCobaCoba.vbproj.GenerateResource.Cache
+D:\Backup Laptop\Documents\Visual Studio 2010\Projects\#Project Apotek Belajar\ApotekCobaCoba\ApotekCobaCoba\obj\x86\Debug\ApotekCobaCoba.exe
+D:\Backup Laptop\Documents\Visual Studio 2010\Projects\#Project Apotek Belajar\ApotekCobaCoba\ApotekCobaCoba\obj\x86\Debug\ApotekCobaCoba.xml
+D:\Backup Laptop\Documents\Visual Studio 2010\Projects\#Project Apotek Belajar\ApotekCobaCoba\ApotekCobaCoba\obj\x86\Debug\ApotekCobaCoba.pdb
+D:\Backup Laptop\Documents\Visual Studio 2010\Projects\#Project Apotek Belajar\ApotekCobaCoba\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.F_Input.resources
+D:\Backup Laptop\Documents\Visual Studio 2010\Projects\#Project Apotek Belajar\ApotekCobaCoba\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.F_InputDataKaryawan.resources
+D:\Backup Laptop\Documents\Visual Studio 2010\Projects\#Project Apotek Belajar\ApotekCobaCoba\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.F_Pembelian.resources
+D:\Backup Laptop\Documents\Visual Studio 2010\Projects\#Project Apotek Belajar\ApotekCobaCoba\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.F_InputDataObat.resources
+D:\Backup Laptop\Documents\Visual Studio 2010\Projects\#Project Apotek Belajar\ApotekCobaCoba\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.F_InputDataSupplier.resources
+C:\Users\guntu\OneDrive\Documents\Visual Studio 2010\Projects\#Project Apotek Belajar\ApotekCobaCoba\ApotekCobaCoba\obj\x86\Debug\ApotekCobaCoba.exe
+C:\Users\guntu\OneDrive\Documents\Visual Studio 2010\Projects\#Project Apotek Belajar\ApotekCobaCoba\ApotekCobaCoba\obj\x86\Debug\ApotekCobaCoba.xml
+C:\Users\guntu\OneDrive\Documents\Visual Studio 2010\Projects\#Project Apotek Belajar\ApotekCobaCoba\ApotekCobaCoba\obj\x86\Debug\ApotekCobaCoba.pdb
+C:\Users\guntu\OneDrive\Documents\Visual Studio 2010\Projects\#Project Apotek Belajar\ApotekCobaCoba\ApotekCobaCoba\bin\Debug\ApotekCobaCoba.exe
+C:\Users\guntu\OneDrive\Documents\Visual Studio 2010\Projects\#Project Apotek Belajar\ApotekCobaCoba\ApotekCobaCoba\bin\Debug\ApotekCobaCoba.pdb
+C:\Users\guntu\OneDrive\Documents\Visual Studio 2010\Projects\#Project Apotek Belajar\ApotekCobaCoba\ApotekCobaCoba\bin\Debug\ApotekCobaCoba.xml
+C:\Users\guntu\OneDrive\Documents\Visual Studio 2010\Projects\#Project Apotek Belajar\ApotekCobaCoba\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.F_Input.resources
+C:\Users\guntu\OneDrive\Documents\Visual Studio 2010\Projects\#Project Apotek Belajar\ApotekCobaCoba\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.F_InputDataKaryawan.resources
+C:\Users\guntu\OneDrive\Documents\Visual Studio 2010\Projects\#Project Apotek Belajar\ApotekCobaCoba\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.F_InputDataObat.resources
+C:\Users\guntu\OneDrive\Documents\Visual Studio 2010\Projects\#Project Apotek Belajar\ApotekCobaCoba\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.F_InputDataSupplier.resources
+C:\Users\guntu\OneDrive\Documents\Visual Studio 2010\Projects\#Project Apotek Belajar\ApotekCobaCoba\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.Home.resources
+C:\Users\guntu\OneDrive\Documents\Visual Studio 2010\Projects\#Project Apotek Belajar\ApotekCobaCoba\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FORM_LOGIN.resources
+C:\Users\guntu\OneDrive\Documents\Visual Studio 2010\Projects\#Project Apotek Belajar\ApotekCobaCoba\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.Resources.resources
+C:\Users\guntu\OneDrive\Documents\Visual Studio 2010\Projects\#Project Apotek Belajar\ApotekCobaCoba\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.F_Pembelian.resources
+C:\Users\guntu\OneDrive\Documents\Visual Studio 2010\Projects\#Project Apotek Belajar\ApotekCobaCoba\ApotekCobaCoba\obj\x86\Debug\ApotekCobaCoba.vbproj.GenerateResource.Cache
+C:\Users\guntu\OneDrive\Documents\Visual Studio 2010\Projects\#Project Apotek Belajar\ApotekCobaCoba\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.A_Loading.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba\ApotekCobaCoba\obj\x86\Debug\ApotekCobaCoba.exe
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba\ApotekCobaCoba\obj\x86\Debug\ApotekCobaCoba.xml
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba\ApotekCobaCoba\obj\x86\Debug\ApotekCobaCoba.pdb
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba\ApotekCobaCoba\bin\Debug\ApotekCobaCoba.exe
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba\ApotekCobaCoba\bin\Debug\ApotekCobaCoba.pdb
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba\ApotekCobaCoba\bin\Debug\ApotekCobaCoba.xml
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.A_Loading.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.F_Input.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.F_InputDataKaryawan.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.F_InputDataObat.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.F_InputDataSupplier.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.Home.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FORM_LOGIN.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.Resources.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.F_Pembelian.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba\ApotekCobaCoba\obj\x86\Debug\ApotekCobaCoba.vbproj.GenerateResource.Cache
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba\ApotekCobaCoba\bin\Debug\DB_Pembelian.accdb
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba\ApotekCobaCoba\bin\Debug\ApotekCobaCoba.exe.config
+C:\Users\guntu\OneDrive\Documents\Visual Studio 2010\Projects\#Project Apotek Belajar\ApotekCobaCobaSuksesLogin\ApotekCobaCoba\bin\Debug\ApotekCobaCoba.exe.config
+C:\Users\guntu\OneDrive\Documents\Visual Studio 2010\Projects\#Project Apotek Belajar\ApotekCobaCobaSuksesLogin\ApotekCobaCoba\obj\x86\Debug\ApotekCobaCoba.exe
+C:\Users\guntu\OneDrive\Documents\Visual Studio 2010\Projects\#Project Apotek Belajar\ApotekCobaCobaSuksesLogin\ApotekCobaCoba\obj\x86\Debug\ApotekCobaCoba.xml
+C:\Users\guntu\OneDrive\Documents\Visual Studio 2010\Projects\#Project Apotek Belajar\ApotekCobaCobaSuksesLogin\ApotekCobaCoba\obj\x86\Debug\ApotekCobaCoba.pdb
+C:\Users\guntu\OneDrive\Documents\Visual Studio 2010\Projects\#Project Apotek Belajar\ApotekCobaCobaSuksesLogin\ApotekCobaCoba\bin\Debug\DB_Pembelian.accdb
+C:\Users\guntu\OneDrive\Documents\Visual Studio 2010\Projects\#Project Apotek Belajar\ApotekCobaCobaSuksesLogin\ApotekCobaCoba\bin\Debug\ApotekCobaCoba.exe
+C:\Users\guntu\OneDrive\Documents\Visual Studio 2010\Projects\#Project Apotek Belajar\ApotekCobaCobaSuksesLogin\ApotekCobaCoba\bin\Debug\ApotekCobaCoba.pdb
+C:\Users\guntu\OneDrive\Documents\Visual Studio 2010\Projects\#Project Apotek Belajar\ApotekCobaCobaSuksesLogin\ApotekCobaCoba\bin\Debug\ApotekCobaCoba.xml
+C:\Users\guntu\OneDrive\Documents\Visual Studio 2010\Projects\#Project Apotek Belajar\ApotekCobaCobaSuksesLogin\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.A_Loading.resources
+C:\Users\guntu\OneDrive\Documents\Visual Studio 2010\Projects\#Project Apotek Belajar\ApotekCobaCobaSuksesLogin\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.F_Input.resources
+C:\Users\guntu\OneDrive\Documents\Visual Studio 2010\Projects\#Project Apotek Belajar\ApotekCobaCobaSuksesLogin\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.F_InputDataKaryawan.resources
+C:\Users\guntu\OneDrive\Documents\Visual Studio 2010\Projects\#Project Apotek Belajar\ApotekCobaCobaSuksesLogin\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.F_InputDataObat.resources
+C:\Users\guntu\OneDrive\Documents\Visual Studio 2010\Projects\#Project Apotek Belajar\ApotekCobaCobaSuksesLogin\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.F_InputDataSupplier.resources
+C:\Users\guntu\OneDrive\Documents\Visual Studio 2010\Projects\#Project Apotek Belajar\ApotekCobaCobaSuksesLogin\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.Home.resources
+C:\Users\guntu\OneDrive\Documents\Visual Studio 2010\Projects\#Project Apotek Belajar\ApotekCobaCobaSuksesLogin\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FORM_LOGIN.resources
+C:\Users\guntu\OneDrive\Documents\Visual Studio 2010\Projects\#Project Apotek Belajar\ApotekCobaCobaSuksesLogin\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.Resources.resources
+C:\Users\guntu\OneDrive\Documents\Visual Studio 2010\Projects\#Project Apotek Belajar\ApotekCobaCobaSuksesLogin\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.F_Pembelian.resources
+C:\Users\guntu\OneDrive\Documents\Visual Studio 2010\Projects\#Project Apotek Belajar\ApotekCobaCobaSuksesLogin\ApotekCobaCoba\obj\x86\Debug\ApotekCobaCoba.vbproj.GenerateResource.Cache
+D:\Aplikasi Apotik\MyProject\ApotekCobaCobaSuksesLogin\ApotekCobaCoba\bin\Debug\ApotekCobaCoba.exe.config
+D:\Aplikasi Apotik\MyProject\ApotekCobaCobaSuksesLogin\ApotekCobaCoba\obj\x86\Debug\ApotekCobaCoba.exe
+D:\Aplikasi Apotik\MyProject\ApotekCobaCobaSuksesLogin\ApotekCobaCoba\obj\x86\Debug\ApotekCobaCoba.xml
+D:\Aplikasi Apotik\MyProject\ApotekCobaCobaSuksesLogin\ApotekCobaCoba\obj\x86\Debug\ApotekCobaCoba.pdb
+D:\Aplikasi Apotik\MyProject\ApotekCobaCobaSuksesLogin\ApotekCobaCoba\bin\Debug\DB_Pembelian.accdb
+D:\Aplikasi Apotik\MyProject\ApotekCobaCobaSuksesLogin\ApotekCobaCoba\bin\Debug\ApotekCobaCoba.exe
+D:\Aplikasi Apotik\MyProject\ApotekCobaCobaSuksesLogin\ApotekCobaCoba\bin\Debug\ApotekCobaCoba.pdb
+D:\Aplikasi Apotik\MyProject\ApotekCobaCobaSuksesLogin\ApotekCobaCoba\bin\Debug\ApotekCobaCoba.xml
+D:\Aplikasi Apotik\MyProject\ApotekCobaCobaSuksesLogin\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.A_Loading.resources
+D:\Aplikasi Apotik\MyProject\ApotekCobaCobaSuksesLogin\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.F_Input.resources
+D:\Aplikasi Apotik\MyProject\ApotekCobaCobaSuksesLogin\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.F_InputDataKaryawan.resources
+D:\Aplikasi Apotik\MyProject\ApotekCobaCobaSuksesLogin\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.F_InputDataObat.resources
+D:\Aplikasi Apotik\MyProject\ApotekCobaCobaSuksesLogin\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.F_InputDataSupplier.resources
+D:\Aplikasi Apotik\MyProject\ApotekCobaCobaSuksesLogin\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.Home.resources
+D:\Aplikasi Apotik\MyProject\ApotekCobaCobaSuksesLogin\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FORM_LOGIN.resources
+D:\Aplikasi Apotik\MyProject\ApotekCobaCobaSuksesLogin\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.Resources.resources
+D:\Aplikasi Apotik\MyProject\ApotekCobaCobaSuksesLogin\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.F_Pembelian.resources
+D:\Aplikasi Apotik\MyProject\ApotekCobaCobaSuksesLogin\ApotekCobaCoba\obj\x86\Debug\ApotekCobaCoba.vbproj.GenerateResource.Cache
+D:\Aplikasi Apotik\MyProject\ApotekCobaCobaSuksesLogin\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.F_InputPembelian.resources
+D:\Aplikasi Apotik\MyProject\ApotekCobaCobaSuksesLogin\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.F_PengeluaranKas.resources
+D:\Aplikasi Apotik\MyProject\ApotekCobaCoba\ApotekCobaCoba\bin\Debug\ApotekCobaCoba.exe.config
+D:\Aplikasi Apotik\MyProject\ApotekCobaCoba\ApotekCobaCoba\obj\x86\Debug\ApotekCobaCoba.exe
+D:\Aplikasi Apotik\MyProject\ApotekCobaCoba\ApotekCobaCoba\obj\x86\Debug\ApotekCobaCoba.xml
+D:\Aplikasi Apotik\MyProject\ApotekCobaCoba\ApotekCobaCoba\obj\x86\Debug\ApotekCobaCoba.pdb
+D:\Aplikasi Apotik\MyProject\ApotekCobaCoba\ApotekCobaCoba\bin\Debug\DB_Pembelian.accdb
+D:\Aplikasi Apotik\MyProject\ApotekCobaCoba\ApotekCobaCoba\bin\Debug\ApotekCobaCoba.exe
+D:\Aplikasi Apotik\MyProject\ApotekCobaCoba\ApotekCobaCoba\bin\Debug\ApotekCobaCoba.pdb
+D:\Aplikasi Apotik\MyProject\ApotekCobaCoba\ApotekCobaCoba\bin\Debug\ApotekCobaCoba.xml
+D:\Aplikasi Apotik\MyProject\ApotekCobaCoba\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.A_Loading.resources
+D:\Aplikasi Apotik\MyProject\ApotekCobaCoba\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.F_InputDataKaryawan.resources
+D:\Aplikasi Apotik\MyProject\ApotekCobaCoba\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.F_InputDataObat.resources
+D:\Aplikasi Apotik\MyProject\ApotekCobaCoba\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FORM_LOGIN.resources
+D:\Aplikasi Apotik\MyProject\ApotekCobaCoba\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.Resources.resources
+D:\Aplikasi Apotik\MyProject\ApotekCobaCoba\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.F_Pembelian.resources
+D:\Aplikasi Apotik\MyProject\ApotekCobaCoba\ApotekCobaCoba\obj\x86\Debug\ApotekCobaCoba.vbproj.GenerateResource.Cache
+D:\Aplikasi Apotik\MyProject\ApotekCobaCoba\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.F_Home.resources
+D:\Aplikasi Apotik\MyProject\ApotekCobaCoba\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.F_Input_Pembelian.resources
+D:\Aplikasi Apotik\MyProject\ApotekCobaCoba\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.F_Penjualan.resources
+D:\Aplikasi Apotik\MyProject\ApotekCobaCoba\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_BukuBesar.resources
+D:\Aplikasi Apotik\MyProject\ApotekCobaCoba\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_BukuBesarDiskon.resources
+D:\Aplikasi Apotik\MyProject\ApotekCobaCoba\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_BukuBesarPembantuUtang.resources
+D:\Aplikasi Apotik\MyProject\ApotekCobaCoba\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_BukuBesarPembelian.resources
+D:\Aplikasi Apotik\MyProject\ApotekCobaCoba\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_BukuBesarUtang.resources
+D:\Aplikasi Apotik\MyProject\ApotekCobaCoba\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_HasilJurnalPembelian.resources
+D:\Aplikasi Apotik\MyProject\ApotekCobaCoba\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_InputDataPenjualan.resources
+D:\Aplikasi Apotik\MyProject\ApotekCobaCoba\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_InputDataCustomer.resources
+D:\Aplikasi Apotik\MyProject\ApotekCobaCoba\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_InputDataSupplier.resources
+D:\Aplikasi Apotik\MyProject\ApotekCobaCoba\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_InputDataPembelian.resources
+D:\Aplikasi Apotik\MyProject\ApotekCobaCoba\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_MenuInputPenjualan.resources
+D:\Aplikasi Apotik\MyProject\ApotekCobaCoba\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_JurnalPembelian.resources
+D:\Aplikasi Apotik\MyProject\ApotekCobaCoba\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_CariJurnalPembelian.resources
+D:\Aplikasi Apotik\MyProject\ApotekCobaCoba\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_JurnalPengeluaranKas.resources
+D:\Aplikasi Apotik\MyProject\ApotekCobaCoba\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_JurnalPenerimaanKas.resources
+D:\Aplikasi Apotik\MyProject\ApotekCobaCoba\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_DataPelunasan.resources
+D:\Aplikasi Apotik\MyProject\ApotekCobaCoba\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_Laporan.resources
+D:\Aplikasi Apotik\MyProject\ApotekCobaCoba\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_LaporanStokAkhir.resources
+D:\Aplikasi Apotik\MyProject\ApotekCobaCoba\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_LaporanTagihanUtang.resources
+D:\Aplikasi Apotik\MyProject\ApotekCobaCoba\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_JurnalPenjualan.resources
+D:\Aplikasi Apotik\MyProject\ApotekCobaCoba\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_BukuBesarKas.resources
+D:\Aplikasi Apotik\MyProject\ApotekCobaCoba\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_Jurnal.resources
+D:\Aplikasi Apotik\MyProject\ApotekCobaCoba\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_BukuBesar.resources
+D:\Aplikasi Apotik\MyProject\ApotekCobaCoba\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_BukuBesarDiskon.resources
+D:\Aplikasi Apotik\MyProject\ApotekCobaCoba\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_BukuBesarKas.resources
+D:\Aplikasi Apotik\MyProject\ApotekCobaCoba\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_BukuBesarPembantuUtang.resources
+D:\Aplikasi Apotik\MyProject\ApotekCobaCoba\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_BukuBesarPenjualan.resources
+D:\Aplikasi Apotik\MyProject\ApotekCobaCoba\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_BukuBesarUtang.resources
+D:\Aplikasi Apotik\MyProject\ApotekCobaCoba\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_Laporan.resources
+D:\Aplikasi Apotik\MyProject\ApotekCobaCoba\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_LaporanPenjualanProduk.resources
+D:\Aplikasi Apotik\MyProject\ApotekCobaCoba\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_LaporanPiutangCustomer.resources
+D:\Aplikasi Apotik\MyProject\ApotekCobaCoba\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_LaporanStokTersisa.resources
+D:\Aplikasi Apotik\MyProject\ApotekCobaCoba\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_LaporanTagihanPiutang.resources
+D:\Aplikasi Apotik\MyProject\ApotekCobaCoba\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_LaporanTransaksiPenjualan.resources
+D:\Aplikasi Apotik\MyProject\ApotekCobaCoba\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_InputDataPelunasan.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba(Guntur)\ApotekCobaCoba\bin\Debug\ApotekCobaCoba.exe.config
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba(Guntur)\ApotekCobaCoba\obj\x86\Debug\ApotekCobaCoba.exe
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba(Guntur)\ApotekCobaCoba\obj\x86\Debug\ApotekCobaCoba.xml
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba(Guntur)\ApotekCobaCoba\obj\x86\Debug\ApotekCobaCoba.pdb
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba(Guntur)\ApotekCobaCoba\bin\Debug\DB_Pembelian.accdb
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba(Guntur)\ApotekCobaCoba\bin\Debug\ApotekCobaCoba.exe
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba(Guntur)\ApotekCobaCoba\bin\Debug\ApotekCobaCoba.pdb
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba(Guntur)\ApotekCobaCoba\bin\Debug\ApotekCobaCoba.xml
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba(Guntur)\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.A_Loading.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba(Guntur)\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_BukuBesar.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba(Guntur)\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_BukuBesarDiskon.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba(Guntur)\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_BukuBesarKas.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba(Guntur)\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_BukuBesarPembantuUtang.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba(Guntur)\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_BukuBesarPenjualan.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba(Guntur)\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_BukuBesarUtang.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba(Guntur)\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_JurnalPenjualan.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba(Guntur)\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_Laporan.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba(Guntur)\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_LaporanPenjualanProduk.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba(Guntur)\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_LaporanPiutangCustomer.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba(Guntur)\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_LaporanStokTersisa.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba(Guntur)\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_LaporanTagihanPiutang.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba(Guntur)\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_LaporanTransaksiPenjualan.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba(Guntur)\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_BukuBesar.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba(Guntur)\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_BukuBesarDiskon.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba(Guntur)\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_BukuBesarKas.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba(Guntur)\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_BukuBesarPembantuUtang.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba(Guntur)\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_BukuBesarPembelian.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba(Guntur)\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_BukuBesarUtang.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba(Guntur)\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_HasilJurnalPembelian.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba(Guntur)\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_InputDataPelunasan.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba(Guntur)\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_InputDataPenjualan.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba(Guntur)\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_JurnalPenerimaanKas.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba(Guntur)\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.F_Input_Pembelian.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba(Guntur)\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_InputDataCustomer.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba(Guntur)\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.F_InputDataKaryawan.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba(Guntur)\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.F_InputDataObat.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba(Guntur)\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_InputDataSupplier.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba(Guntur)\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_InputDataPembelian.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba(Guntur)\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_MenuInputPenjualan.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba(Guntur)\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_JurnalPembelian.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba(Guntur)\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_CariJurnalPembelian.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba(Guntur)\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_DataPelunasan.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba(Guntur)\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_JurnalPengeluaranKas.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba(Guntur)\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.F_Home.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba(Guntur)\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_Laporan.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba(Guntur)\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_LaporanStokAkhir.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba(Guntur)\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_LaporanTagihanUtang.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba(Guntur)\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FORM_LOGIN.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba(Guntur)\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.F_Penjualan.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba(Guntur)\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_Jurnal.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba(Guntur)\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.Resources.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba(Guntur)\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.F_Pembelian.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba(Guntur)\ApotekCobaCoba\obj\x86\Debug\ApotekCobaCoba.vbproj.GenerateResource.Cache
+D:\Aplikasi Apotik\MyProject\ApotekCobaCoba(Guntur)\ApotekCobaCoba\bin\Debug\ApotekCobaCoba.exe.config
+D:\Aplikasi Apotik\MyProject\ApotekCobaCoba(Guntur)\ApotekCobaCoba\obj\x86\Debug\ApotekCobaCoba.exe
+D:\Aplikasi Apotik\MyProject\ApotekCobaCoba(Guntur)\ApotekCobaCoba\obj\x86\Debug\ApotekCobaCoba.xml
+D:\Aplikasi Apotik\MyProject\ApotekCobaCoba(Guntur)\ApotekCobaCoba\obj\x86\Debug\ApotekCobaCoba.pdb
+D:\Kampus\Lain-lain\ApotekCobaCoba1.1\ApotekCobaCoba\bin\Debug\ApotekCobaCoba.exe.config
+D:\Kampus\Lain-lain\ApotekCobaCoba1.1\ApotekCobaCoba\obj\x86\Debug\ApotekCobaCoba.exe
+D:\Kampus\Lain-lain\ApotekCobaCoba1.1\ApotekCobaCoba\obj\x86\Debug\ApotekCobaCoba.xml
+D:\Kampus\Lain-lain\ApotekCobaCoba1.1\ApotekCobaCoba\obj\x86\Debug\ApotekCobaCoba.pdb
+D:\Kampus\Lain-lain\ApotekCobaCoba1.1\ApotekCobaCoba\bin\Debug\DB_Pembelian.accdb
+D:\Kampus\Lain-lain\ApotekCobaCoba1.1\ApotekCobaCoba\bin\Debug\ApotekCobaCoba.exe
+D:\Kampus\Lain-lain\ApotekCobaCoba1.1\ApotekCobaCoba\bin\Debug\ApotekCobaCoba.pdb
+D:\Kampus\Lain-lain\ApotekCobaCoba1.1\ApotekCobaCoba\bin\Debug\ApotekCobaCoba.xml
+D:\Kampus\Lain-lain\ApotekCobaCoba1.1\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.A_Loading.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.1\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_BukuBesar.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.1\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_BukuBesarDiskon.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.1\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_BukuBesarKas.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.1\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_BukuBesarPembantuUtang.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.1\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_BukuBesarPenjualan.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.1\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_BukuBesarUtang.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.1\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_JurnalPenjualan.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.1\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_Laporan.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.1\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_LaporanPenjualanProduk.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.1\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_LaporanPiutangCustomer.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.1\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_LaporanStokTersisa.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.1\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_LaporanTagihanPiutang.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.1\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_LaporanTransaksiPenjualan.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.1\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_UpdateDataCustomer.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.1\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_BukuBesar.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.1\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_BukuBesarDiskon.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.1\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_BukuBesarKas.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.1\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_BukuBesarPembantuUtang.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.1\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_BukuBesarPembelian.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.1\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_BukuBesarUtang.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.1\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_HasilJurnalPembelian.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.1\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_InputDataPelunasan.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.1\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_InputDataPenjualan.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.1\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_JurnalPenerimaanKas.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.1\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.F_Input_Pembelian.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.1\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_InputDataCustomer.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.1\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FUser_Akuntan.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.1\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FUser_Kasir.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.1\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FUser_Pemilik.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.1\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.F_InputDataKaryawan.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.1\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.F_InputDataObat.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.1\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_InputDataSupplier.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.1\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_InputDataPembelian.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.1\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_MenuInputPenjualan.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.1\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_JurnalPembelian.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.1\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_CariJurnalPembelian.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.1\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_DataPelunasan.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.1\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_JurnalPengeluaranKas.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.1\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.F_Home.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.1\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_Laporan.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.1\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_LaporanStokAkhir.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.1\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_LaporanTagihanUtang.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.1\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.F_Penjualan.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.1\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_Jurnal.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.1\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FUser_KAGudang.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.1\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.Resources.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.1\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.F_Pembelian.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.1\ApotekCobaCoba\obj\x86\Debug\ApotekCobaCoba.vbproj.GenerateResource.Cache
+D:\Kampus\Lain-lain\ApotekCobaCoba1.1\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.f_login.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.2\ApotekCobaCoba\bin\Debug\ApotekCobaCoba.exe.config
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.2\ApotekCobaCoba\obj\x86\Debug\ApotekCobaCoba.exe
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.2\ApotekCobaCoba\obj\x86\Debug\ApotekCobaCoba.xml
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.2\ApotekCobaCoba\obj\x86\Debug\ApotekCobaCoba.pdb
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.2\ApotekCobaCoba\bin\Debug\DB_Pembelian.accdb
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.2\ApotekCobaCoba\bin\Debug\ApotekCobaCoba.exe
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.2\ApotekCobaCoba\bin\Debug\ApotekCobaCoba.pdb
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.2\ApotekCobaCoba\bin\Debug\ApotekCobaCoba.xml
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.2\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.A_Loading.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.2\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_BukuBesar.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.2\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_JurnalPenjualan.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.2\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_Laporan.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.2\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_LaporanPenjualanProduk.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.2\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_LaporanStokTersisa.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.2\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_LaporanTagihanPiutang.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.2\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_LaporanTransaksiPenjualan.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.2\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_UpdateDataCustomer.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.2\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_BukuBesar.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.2\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_BukuBesarDiskon.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.2\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_BukuBesarKas.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.2\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_BukuBesarPembantuUtang.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.2\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_BukuBesarPembelian.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.2\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_BukuBesarUtang.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.2\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_HasilJurnalPembelian.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.2\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_InputDataPelunasan.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.2\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_InputDataPenjualan.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.2\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_JurnalPenerimaanKas.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.2\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.F_Input_Pembelian.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.2\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_InputDataCustomer.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.2\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FUser_Akuntan.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.2\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FUser_Kasir.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.2\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FUser_Pemilik.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.2\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.F_InputDataKaryawan.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.2\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.F_InputDataObat.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.2\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_InputDataSupplier.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.2\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_InputDataPembelian.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.2\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_MenuInputPenjualan.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.2\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_JurnalPembelian.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.2\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_CariJurnalPembelian.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.2\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_DataPelunasan.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.2\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_JurnalPengeluaranKas.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.2\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.F_Home.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.2\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_Laporan.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.2\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_LaporanStokAkhir.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.2\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.f_login.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.2\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.F_Penjualan.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.2\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_Jurnal.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.2\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FUser_KAGudang.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.2\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.Resources.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.2\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.F_Pembelian.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.2\ApotekCobaCoba\obj\x86\Debug\ApotekCobaCoba.vbproj.GenerateResource.Cache
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.2\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.F_LaporanLabaRugi.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.2\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.F_LaporanNeraca.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.2\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_MenuBukuBesar.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.2\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_BukuBesarPembantu.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.2\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_LaporanPiutangDagang.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.2\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_LaporanUtangDagang.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.3\ApotekCobaCoba\bin\Debug\ApotekCobaCoba.exe.config
+D:\Kampus\Lain-lain\ApotekCobaCoba1.3\ApotekCobaCoba\obj\x86\Debug\ApotekCobaCoba.exe
+D:\Kampus\Lain-lain\ApotekCobaCoba1.3\ApotekCobaCoba\obj\x86\Debug\ApotekCobaCoba.xml
+D:\Kampus\Lain-lain\ApotekCobaCoba1.3\ApotekCobaCoba\obj\x86\Debug\ApotekCobaCoba.pdb
+D:\Kampus\Lain-lain\ApotekCobaCoba1.3\ApotekCobaCoba\bin\Debug\DB_Pembelian.accdb
+D:\Kampus\Lain-lain\ApotekCobaCoba1.3\ApotekCobaCoba\bin\Debug\ApotekCobaCoba.exe
+D:\Kampus\Lain-lain\ApotekCobaCoba1.3\ApotekCobaCoba\bin\Debug\ApotekCobaCoba.pdb
+D:\Kampus\Lain-lain\ApotekCobaCoba1.3\ApotekCobaCoba\bin\Debug\ApotekCobaCoba.xml
+D:\Kampus\Lain-lain\ApotekCobaCoba1.3\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.A_Loading.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.3\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.F_LaporanLabaRugi.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.3\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.F_LaporanNeraca.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.3\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_MenuBukuBesar.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.3\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_BukuBesar.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.3\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_BukuBesarPembantu.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.3\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_LaporanPenjualanProduk.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.3\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_LaporanPiutangDagang.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.3\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_LaporanStokBarang.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.3\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_LaporanTagihanPiutang.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.3\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_LaporanTransaksiPenjualan.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.3\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_UpdateDataCustomer.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.3\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_BukuBesar.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.3\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_BukuBesarDiskon.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.3\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_BukuBesarKas.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.3\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_BukuBesarPembantuUtang.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.3\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_BukuBesarPembelian.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.3\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_BukuBesarUtang.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.3\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_JurnalPembelian.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.3\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_InputDataPelunasan.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.3\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_InputDataPenjualan.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.3\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_JurnalPenerimaanKas.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.3\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_InputDataCustomer.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.3\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FUser_Akuntan.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.3\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FUser_Kasir.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.3\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FUser_Pemilik.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.3\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.F_InputDataKaryawan.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.3\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.F_InputDataObat.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.3\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_InputDataSupplier.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.3\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_InputDataPembelian.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.3\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_MenuInputPenjualan.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.3\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_CariJurnalPembelian.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.3\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_DataPelunasan.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.3\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_JurnalPengeluaranKas.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.3\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_LaporanStokAkhir.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.3\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_LaporanUtangDagang.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.3\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.f_login.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.3\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_JurnalPenjuala.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.3\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FUser_KAGudang.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.3\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.Resources.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.3\ApotekCobaCoba\obj\x86\Debug\ApotekCobaCoba.vbproj.GenerateResource.Cache
+D:\Aplikasi Apotik\MyProject\ApotekCobaCoba1.4\ApotekCobaCoba\bin\Debug\ApotekCobaCoba.exe.config
+D:\Aplikasi Apotik\MyProject\ApotekCobaCoba1.4\ApotekCobaCoba\obj\x86\Debug\ApotekCobaCoba.exe
+D:\Aplikasi Apotik\MyProject\ApotekCobaCoba1.4\ApotekCobaCoba\obj\x86\Debug\ApotekCobaCoba.xml
+D:\Aplikasi Apotik\MyProject\ApotekCobaCoba1.4\ApotekCobaCoba\obj\x86\Debug\ApotekCobaCoba.pdb
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.4\ApotekCobaCoba\bin\Debug\ApotekCobaCoba.exe.config
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.4\ApotekCobaCoba\obj\x86\Debug\ApotekCobaCoba.exe
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.4\ApotekCobaCoba\obj\x86\Debug\ApotekCobaCoba.xml
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.4\ApotekCobaCoba\obj\x86\Debug\ApotekCobaCoba.pdb
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.4\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.A_Loading.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.4\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.F_LaporanLabaRugi.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.4\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.F_LaporanNeraca.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.4\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_MenuBukuBesar.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.4\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_BukuBesar.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.4\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_BukuBesarPembantu.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.4\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_LaporanPenjualanProduk.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.4\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_LaporanPiutangDagang.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.4\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_LaporanStokBarang.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.4\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_LaporanTagihanPiutang.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.4\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_LaporanTransaksiPenjualan.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.4\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_UpdateDataCustomer.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.4\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_BukuBesar.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.4\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_BukuBesarDiskon.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.4\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_BukuBesarKas.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.4\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_BukuBesarPembantuUtang.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.4\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_BukuBesarPembelian.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.4\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_BukuBesarUtang.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.4\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_JurnalPembelian.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.4\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_InputDataPelunasan.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.4\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_InputDataPenjualan.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.4\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_JurnalPenerimaanKas.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.4\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_InputDataCustomer.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.4\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FUser_Akuntan.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.4\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FUser_Kasir.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.4\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FUser_Pemilik.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.4\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.F_InputDataKaryawan.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.4\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.F_InputDataObat.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.4\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_InputDataSupplier.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.4\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_InputDataPembelian.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.4\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_MenuInputPenjualan.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.4\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_CariJurnalPembelian.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.4\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_DataPelunasan.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.4\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_JurnalPengeluaranKas.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.4\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_LaporanStokAkhir.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.4\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_LaporanUtangDagang.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.4\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.f_login.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.4\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_JurnalPenjuala.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.4\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FUser_KAGudang.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.4\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.Resources.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.4\ApotekCobaCoba\obj\x86\Debug\ApotekCobaCoba.vbproj.GenerateResource.Cache
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.4\ApotekCobaCoba\bin\Debug\DB_Pembelian.accdb
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.4\ApotekCobaCoba\bin\Debug\ApotekCobaCoba.exe
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.4\ApotekCobaCoba\bin\Debug\ApotekCobaCoba.pdb
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.4\ApotekCobaCoba\bin\Debug\ApotekCobaCoba.xml
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.5\ApotekCobaCoba\bin\Debug\ApotekCobaCoba.exe.config
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.5\ApotekCobaCoba\obj\x86\Debug\ApotekCobaCoba.exe
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.5\ApotekCobaCoba\obj\x86\Debug\ApotekCobaCoba.xml
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.5\ApotekCobaCoba\obj\x86\Debug\ApotekCobaCoba.pdb
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.5\ApotekCobaCoba\bin\Debug\DB_Pembelian.accdb
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.5\ApotekCobaCoba\bin\Debug\ApotekCobaCoba.exe
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.5\ApotekCobaCoba\bin\Debug\ApotekCobaCoba.pdb
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.5\ApotekCobaCoba\bin\Debug\ApotekCobaCoba.xml
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.5\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.A_Loading.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.5\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.F_InputJurnal.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.5\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.F_LaporanLabaRugi.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.5\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.F_LaporanNeraca.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.5\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_MenuBukuBesar.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.5\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_BukuBesar.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.5\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_BukuBesarPembantu.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.5\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_LaporanPenjualanProduk.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.5\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_LaporanPiutangDagang.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.5\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_LaporanStokBarang.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.5\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_LaporanTagihanPiutang.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.5\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_LaporanTransaksiPenjualan.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.5\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_UpdateDataCustomer.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.5\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_BukuBesar.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.5\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_BukuBesarDiskon.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.5\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_BukuBesarKas.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.5\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_BukuBesarPembantuUtang.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.5\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_BukuBesarPembelian.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.5\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_BukuBesarUtang.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.5\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_JurnalPembelian.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.5\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_InputDataPelunasan.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.5\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_InputDataPenjualan.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.5\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_JurnalPenerimaanKas.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.5\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_InputDataCustomer.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.5\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FUser_Akuntan.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.5\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FUser_Kasir.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.5\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FUser_Pemilik.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.5\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.F_InputDataKaryawan.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.5\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.F_InputDataObat.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.5\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_InputDataSupplier.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.5\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_InputDataPembelian.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.5\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_MenuInputPenjualan.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.5\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_CariJurnalPembelian.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.5\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_DataPelunasan.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.5\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_JurnalPengeluaranKas.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.5\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_LaporanStokAkhir.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.5\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_LaporanUtangDagang.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.5\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.f_login.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.5\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_JurnalPenjuala.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.5\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FUser_KAGudang.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.5\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.Resources.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.5\ApotekCobaCoba\obj\x86\Debug\ApotekCobaCoba.vbproj.GenerateResource.Cache
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.5\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.F_UpdateDataObat.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.5\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.F_UpdateDataSupplier.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.5\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.F_UpdateDataKaryawan.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.6\ApotekCobaCoba\bin\Debug\ApotekCobaCoba.exe.config
+D:\Kampus\Lain-lain\ApotekCobaCoba1.6\ApotekCobaCoba\obj\x86\Debug\ApotekCobaCoba.exe
+D:\Kampus\Lain-lain\ApotekCobaCoba1.6\ApotekCobaCoba\obj\x86\Debug\ApotekCobaCoba.xml
+D:\Kampus\Lain-lain\ApotekCobaCoba1.6\ApotekCobaCoba\obj\x86\Debug\ApotekCobaCoba.pdb
+D:\Kampus\Lain-lain\ApotekCobaCoba1.6\ApotekCobaCoba\bin\Debug\DB_Pembelian.accdb
+D:\Kampus\Lain-lain\ApotekCobaCoba1.6\ApotekCobaCoba\bin\Debug\ApotekCobaCoba.exe
+D:\Kampus\Lain-lain\ApotekCobaCoba1.6\ApotekCobaCoba\bin\Debug\ApotekCobaCoba.pdb
+D:\Kampus\Lain-lain\ApotekCobaCoba1.6\ApotekCobaCoba\bin\Debug\ApotekCobaCoba.xml
+D:\Kampus\Lain-lain\ApotekCobaCoba1.6\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.A_Loading.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.6\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.F_InputJurnal.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.6\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.F_LaporanLabaRugi.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.6\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.F_LaporanNeraca.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.6\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_MenuBukuBesar.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.6\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_BukuBesar.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.6\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_BukuBesarPembantu.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.6\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_LaporanPenjualanProduk.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.6\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_LaporanPiutangDagang.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.6\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_LaporanStokBarang.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.6\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_LaporanTagihanPiutang.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.6\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_LaporanTransaksiPenjualan.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.6\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_UpdateDataCustomer.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.6\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_BukuBesar.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.6\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_BukuBesarDiskon.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.6\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_BukuBesarKas.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.6\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_BukuBesarPembantuUtang.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.6\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_BukuBesarPembelian.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.6\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_BukuBesarUtang.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.6\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_JurnalPembelian.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.6\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_InputDataPelunasan.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.6\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_InputDataPenjualan.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.6\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_JurnalPenerimaanKas.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.6\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_InputDataCustomer.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.6\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FUser_Akuntan.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.6\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FUser_Kasir.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.6\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FUser_Pemilik.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.6\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.F_InputDataKaryawan.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.6\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.F_InputDataObat.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.6\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_InputDataSupplier.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.6\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_InputDataPembelian.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.6\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_MenuInputPenjualan.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.6\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_CariJurnalPembelian.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.6\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_DataPelunasan.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.6\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_JurnalPengeluaranKas.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.6\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_LaporanStokAkhir.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.6\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_LaporanUtangDagang.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.6\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.f_login.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.6\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_JurnalPenjuala.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.6\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FUser_KAGudang.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.6\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.F_UpdateDataKaryawan.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.6\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.F_UpdateDataObat.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.6\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.F_UpdateDataSupplier.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.6\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.Resources.resources
+D:\Kampus\Lain-lain\ApotekCobaCoba1.6\ApotekCobaCoba\obj\x86\Debug\ApotekCobaCoba.vbproj.GenerateResource.Cache
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.65\ApotekCobaCoba\bin\Debug\ApotekCobaCoba.exe.config
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.65\ApotekCobaCoba\obj\x86\Debug\ApotekCobaCoba.exe
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.65\ApotekCobaCoba\obj\x86\Debug\ApotekCobaCoba.xml
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.65\ApotekCobaCoba\obj\x86\Debug\ApotekCobaCoba.pdb
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.65\ApotekCobaCoba\bin\Debug\DB_Pembelian.accdb
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.65\ApotekCobaCoba\bin\Debug\ApotekCobaCoba.exe
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.65\ApotekCobaCoba\bin\Debug\ApotekCobaCoba.pdb
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.65\ApotekCobaCoba\bin\Debug\ApotekCobaCoba.xml
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.65\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.A_Loading.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.65\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.F_InputJurnal.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.65\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.F_LaporanLabaRugi.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.65\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.F_LaporanNeraca.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.65\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_MenuBukuBesar.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.65\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_BukuBesar.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.65\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_BukuBesarPembantu.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.65\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_LaporanPenjualanProduk.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.65\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_LaporanPiutangDagang.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.65\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_LaporanStokBarang.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.65\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_LaporanTagihanPiutang.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.65\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_LaporanTransaksiPenjualan.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.65\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_UpdateDataCustomer.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.65\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_BukuBesar.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.65\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_BukuBesarDiskon.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.65\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_BukuBesarKas.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.65\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_BukuBesarPembantuUtang.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.65\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_BukuBesarPembelian.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.65\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_BukuBesarUtang.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.65\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_JurnalPembelian.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.65\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_InputDataPelunasan.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.65\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_InputDataPenjualan.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.65\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_JurnalPenerimaanKas.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.65\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_InputDataCustomer.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.65\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FUser_Akuntan.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.65\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FUser_Kasir.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.65\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FUser_Pemilik.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.65\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.F_InputDataKaryawan.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.65\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.F_InputDataObat.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.65\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_InputDataSupplier.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.65\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_InputDataPembelian.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.65\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_MenuInputPenjualan.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.65\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_CariJurnalPembelian.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.65\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_DataPelunasan.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.65\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_JurnalPengeluaranKas.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.65\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_LaporanStokAkhir.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.65\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_LaporanUtangDagang.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.65\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.f_login.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.65\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_JurnalPenjuala.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.65\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FUser_KAGudang.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.65\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.F_UpdateDataKaryawan.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.65\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.F_UpdateDataObat.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.65\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.F_UpdateDataSupplier.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.65\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.Resources.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.65\ApotekCobaCoba\obj\x86\Debug\ApotekCobaCoba.vbproj.GenerateResource.Cache
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.65\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.F_JurnalUmum.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.7\ApotekCobaCoba\bin\Debug\ApotekCobaCoba.exe.config
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.7\ApotekCobaCoba\obj\x86\Debug\ApotekCobaCoba.exe
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.7\ApotekCobaCoba\obj\x86\Debug\ApotekCobaCoba.xml
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.7\ApotekCobaCoba\obj\x86\Debug\ApotekCobaCoba.pdb
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.7\ApotekCobaCoba\bin\Debug\DB_Pembelian.accdb
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.7\ApotekCobaCoba\bin\Debug\ApotekCobaCoba.exe
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.7\ApotekCobaCoba\bin\Debug\ApotekCobaCoba.pdb
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.7\ApotekCobaCoba\bin\Debug\ApotekCobaCoba.xml
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.7\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.A_Loading.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.7\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.F_InputJurnal.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.7\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.F_JurnalUmum.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.7\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.F_LaporanLabaRugi.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.7\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.F_LaporanNeraca.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.7\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_MenuBukuBesar.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.7\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_BukuBesar.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.7\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_BukuBesarPembantu.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.7\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_LaporanPenjualanProduk.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.7\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_LaporanPiutangDagang.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.7\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_LaporanStokBarang.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.7\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_LaporanTagihanPiutang.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.7\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_LaporanTransaksiPenjualan.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.7\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_UpdateDataCustomer.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.7\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_BukuBesar.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.7\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_BukuBesarDiskon.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.7\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_BukuBesarKas.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.7\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_BukuBesarPembantuUtang.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.7\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_BukuBesarPembelian.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.7\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_BukuBesarUtang.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.7\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_JurnalPembelian.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.7\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_InputDataPelunasan.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.7\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_InputDataPenjualan.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.7\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_JurnalPenerimaanKas.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.7\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_InputDataCustomer.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.7\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FUser_Akuntan.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.7\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FUser_Kasir.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.7\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FUser_Pemilik.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.7\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.F_InputDataKaryawan.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.7\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.F_InputDataObat.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.7\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_InputDataSupplier.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.7\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_InputDataPembelian.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.7\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_MenuInputPenjualan.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.7\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_CariJurnalPembelian.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.7\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_DataPelunasan.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.7\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_JurnalPengeluaranKas.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.7\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_LaporanStokAkhir.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.7\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPm_LaporanUtangDagang.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.7\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.f_login.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.7\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FPj_JurnalPenjuala.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.7\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.FUser_KAGudang.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.7\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.F_UpdateDataKaryawan.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.7\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.F_UpdateDataObat.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.7\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.F_UpdateDataSupplier.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.7\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.Resources.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.7\ApotekCobaCoba\obj\x86\Debug\ApotekCobaCoba.vbproj.GenerateResource.Cache
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.7\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.F_PembelianHarian.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.7\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.F_PenjualanHarian.resources
+D:\Kampus\Aplikasi Apotik\ApotekCobaCoba1.7\ApotekCobaCoba\obj\x86\Debug\AplikasiApotek.F_LaporanPosisiKeuangan.resources

@@ -1,0 +1,570 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{3BE3AE73-FA56-4B18-9C2F-A470EAAEAA98}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>AplikasiApotek.My.MyApplication</StartupObject>
+    <RootNamespace>AplikasiApotek</RootNamespace>
+    <AssemblyName>ApotekCobaCoba</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>ApotekCobaCoba.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>ApotekCobaCoba.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Untitled.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="A_Loading.Designer.vb">
+      <DependentUpon>A_Loading.vb</DependentUpon>
+    </Compile>
+    <Compile Include="A_Loading.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="F_JurnalUmum.Designer.vb">
+      <DependentUpon>F_JurnalUmum.vb</DependentUpon>
+    </Compile>
+    <Compile Include="F_JurnalUmum.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="F_LaporanPosisiKeuangan.Designer.vb">
+      <DependentUpon>F_LaporanPosisiKeuangan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="F_LaporanPosisiKeuangan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="F_PembelianHarian.Designer.vb">
+      <DependentUpon>F_PembelianHarian.vb</DependentUpon>
+    </Compile>
+    <Compile Include="F_PembelianHarian.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="F_PenjualanHarian.Designer.vb">
+      <DependentUpon>F_PenjualanHarian.vb</DependentUpon>
+    </Compile>
+    <Compile Include="F_PenjualanHarian.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="F_UpdateDataKaryawan.Designer.vb">
+      <DependentUpon>F_UpdateDataKaryawan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="F_UpdateDataKaryawan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="F_UpdateDataObat.Designer.vb">
+      <DependentUpon>F_UpdateDataObat.vb</DependentUpon>
+    </Compile>
+    <Compile Include="F_UpdateDataObat.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="F_InputJurnal.Designer.vb">
+      <DependentUpon>F_InputJurnal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="F_InputJurnal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="F_LaporanLabaRugi.Designer.vb">
+      <DependentUpon>F_LaporanLabaRugi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="F_LaporanLabaRugi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="F_LaporanNeraca.Designer.vb">
+      <DependentUpon>F_LaporanNeraca.vb</DependentUpon>
+    </Compile>
+    <Compile Include="F_LaporanNeraca.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DB_PembelianDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DB_PembelianDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="FPj_MenuBukuBesar.Designer.vb">
+      <DependentUpon>FPj_MenuBukuBesar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FPj_MenuBukuBesar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FPj_BukuBesar.Designer.vb">
+      <DependentUpon>FPj_BukuBesar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FPj_BukuBesar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FPj_BukuBesarPembantu.Designer.vb">
+      <DependentUpon>FPj_BukuBesarPembantu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FPj_BukuBesarPembantu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FPj_LaporanPenjualanProduk.Designer.vb">
+      <DependentUpon>FPj_LaporanPenjualanProduk.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FPj_LaporanPenjualanProduk.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FPj_LaporanPiutangDagang.Designer.vb">
+      <DependentUpon>FPj_LaporanPiutangDagang.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FPj_LaporanPiutangDagang.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FPj_LaporanStokBarang.Designer.vb">
+      <DependentUpon>FPj_LaporanStokBarang.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FPj_LaporanStokBarang.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FPj_LaporanTagihanPiutang.Designer.vb">
+      <DependentUpon>FPj_LaporanTagihanPiutang.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FPj_LaporanTagihanPiutang.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FPj_LaporanTransaksiPenjualan.Designer.vb">
+      <DependentUpon>FPj_LaporanTransaksiPenjualan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FPj_LaporanTransaksiPenjualan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FPj_UpdateDataCustomer.Designer.vb">
+      <DependentUpon>FPj_UpdateDataCustomer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FPj_UpdateDataCustomer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FPm_BukuBesar.Designer.vb">
+      <DependentUpon>FPm_BukuBesar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FPm_BukuBesar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FPm_BukuBesarDiskon.Designer.vb">
+      <DependentUpon>FPm_BukuBesarDiskon.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FPm_BukuBesarDiskon.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FPm_BukuBesarKas.Designer.vb">
+      <DependentUpon>FPm_BukuBesarKas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FPm_BukuBesarKas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FPm_BukuBesarPembantuUtang.Designer.vb">
+      <DependentUpon>FPm_BukuBesarPembantuUtang.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FPm_BukuBesarPembantuUtang.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FPm_BukuBesarPembelian.Designer.vb">
+      <DependentUpon>FPm_BukuBesarPembelian.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FPm_BukuBesarPembelian.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FPm_BukuBesarUtang.Designer.vb">
+      <DependentUpon>FPm_BukuBesarUtang.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FPm_BukuBesarUtang.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FPm_JurnalPembelian.Designer.vb">
+      <DependentUpon>FPm_JurnalPembelian.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FPm_JurnalPembelian.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FPj_InputDataPelunasan.Designer.vb">
+      <DependentUpon>FPj_InputDataPelunasan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FPj_InputDataPelunasan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FPj_InputDataPenjualan.Designer.vb">
+      <DependentUpon>FPj_InputDataPenjualan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FPj_InputDataPenjualan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FPj_JurnalPenerimaanKas.Designer.vb">
+      <DependentUpon>FPj_JurnalPenerimaanKas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FPj_JurnalPenerimaanKas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FPj_InputDataCustomer.Designer.vb">
+      <DependentUpon>FPj_InputDataCustomer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FPj_InputDataCustomer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FUser_Akuntan.Designer.vb">
+      <DependentUpon>FUser_Akuntan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FUser_Akuntan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FUser_Kasir.Designer.vb">
+      <DependentUpon>FUser_Kasir.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FUser_Kasir.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FUser_Pemilik.Designer.vb">
+      <DependentUpon>FUser_Pemilik.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FUser_Pemilik.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="F_InputDataKaryawan.Designer.vb">
+      <DependentUpon>F_InputDataKaryawan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="F_InputDataKaryawan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="F_InputDataObat.Designer.vb">
+      <DependentUpon>F_InputDataObat.vb</DependentUpon>
+    </Compile>
+    <Compile Include="F_InputDataObat.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FPm_InputDataSupplier.Designer.vb">
+      <DependentUpon>FPm_InputDataSupplier.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FPm_InputDataSupplier.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FPm_InputDataPembelian.Designer.vb">
+      <DependentUpon>FPm_InputDataPembelian.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FPm_InputDataPembelian.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FPj_MenuInputPenjualan.Designer.vb">
+      <DependentUpon>FPj_MenuInputPenjualan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FPj_MenuInputPenjualan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FPm_CariJurnalPembelian.Designer.vb">
+      <DependentUpon>FPm_CariJurnalPembelian.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FPm_CariJurnalPembelian.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FPm_JurnalPengeluaranKas.Designer.vb">
+      <DependentUpon>FPm_JurnalPengeluaranKas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FPm_JurnalPengeluaranKas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FPm_DataPelunasan.Designer.vb">
+      <DependentUpon>FPm_DataPelunasan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FPm_DataPelunasan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FPm_LaporanStokAkhir.Designer.vb">
+      <DependentUpon>FPm_LaporanStokAkhir.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FPm_LaporanStokAkhir.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FPm_LaporanUtangDagang.Designer.vb">
+      <DependentUpon>FPm_LaporanUtangDagang.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FPm_LaporanUtangDagang.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="F_Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="F_Login.Designer.vb">
+      <DependentUpon>F_Login.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FUser_KAGudang.Designer.vb">
+      <DependentUpon>FUser_KAGudang.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FUser_KAGudang.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="F_UpdateDataSupplier.Designer.vb">
+      <DependentUpon>F_UpdateDataSupplier.vb</DependentUpon>
+    </Compile>
+    <Compile Include="F_UpdateDataSupplier.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="init.vb" />
+    <Compile Include="FPj_JurnalPenjuala.Designer.vb">
+      <DependentUpon>FPj_JurnalPenjuala.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FPj_JurnalPenjuala.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="A_Loading.resx">
+      <DependentUpon>A_Loading.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="F_InputJurnal.resx">
+      <DependentUpon>F_InputJurnal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="F_JurnalUmum.resx">
+      <DependentUpon>F_JurnalUmum.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="F_LaporanLabaRugi.resx">
+      <DependentUpon>F_LaporanLabaRugi.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="F_LaporanNeraca.resx">
+      <DependentUpon>F_LaporanNeraca.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FPj_MenuBukuBesar.resx">
+      <DependentUpon>FPj_MenuBukuBesar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FPj_BukuBesar.resx">
+      <DependentUpon>FPj_BukuBesar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FPj_BukuBesarPembantu.resx">
+      <DependentUpon>FPj_BukuBesarPembantu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FPj_LaporanPenjualanProduk.resx">
+      <DependentUpon>FPj_LaporanPenjualanProduk.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FPj_LaporanPiutangDagang.resx">
+      <DependentUpon>FPj_LaporanPiutangDagang.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FPj_LaporanStokBarang.resx">
+      <DependentUpon>FPj_LaporanStokBarang.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FPj_LaporanTagihanPiutang.resx">
+      <DependentUpon>FPj_LaporanTagihanPiutang.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FPj_LaporanTransaksiPenjualan.resx">
+      <DependentUpon>FPj_LaporanTransaksiPenjualan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FPj_UpdateDataCustomer.resx">
+      <DependentUpon>FPj_UpdateDataCustomer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FPm_BukuBesar.resx">
+      <DependentUpon>FPm_BukuBesar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FPm_BukuBesarDiskon.resx">
+      <DependentUpon>FPm_BukuBesarDiskon.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FPm_BukuBesarKas.resx">
+      <DependentUpon>FPm_BukuBesarKas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FPm_BukuBesarPembantuUtang.resx">
+      <DependentUpon>FPm_BukuBesarPembantuUtang.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FPm_BukuBesarPembelian.resx">
+      <DependentUpon>FPm_BukuBesarPembelian.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FPm_BukuBesarUtang.resx">
+      <DependentUpon>FPm_BukuBesarUtang.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FPm_JurnalPembelian.resx">
+      <DependentUpon>FPm_JurnalPembelian.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FPj_InputDataPelunasan.resx">
+      <DependentUpon>FPj_InputDataPelunasan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FPj_InputDataPenjualan.resx">
+      <DependentUpon>FPj_InputDataPenjualan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FPj_JurnalPenerimaanKas.resx">
+      <DependentUpon>FPj_JurnalPenerimaanKas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FPj_InputDataCustomer.resx">
+      <DependentUpon>FPj_InputDataCustomer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FUser_Akuntan.resx">
+      <DependentUpon>FUser_Akuntan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FUser_Kasir.resx">
+      <DependentUpon>FUser_Kasir.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FUser_Pemilik.resx">
+      <DependentUpon>FUser_Pemilik.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="F_InputDataKaryawan.resx">
+      <DependentUpon>F_InputDataKaryawan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="F_InputDataObat.resx">
+      <DependentUpon>F_InputDataObat.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FPm_InputDataSupplier.resx">
+      <DependentUpon>FPm_InputDataSupplier.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FPm_InputDataPembelian.resx">
+      <DependentUpon>FPm_InputDataPembelian.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FPj_MenuInputPenjualan.resx">
+      <DependentUpon>FPj_MenuInputPenjualan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FPm_CariJurnalPembelian.resx">
+      <DependentUpon>FPm_CariJurnalPembelian.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FPm_DataPelunasan.resx">
+      <DependentUpon>FPm_DataPelunasan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FPm_JurnalPengeluaranKas.resx">
+      <DependentUpon>FPm_JurnalPengeluaranKas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FPm_LaporanStokAkhir.resx">
+      <DependentUpon>FPm_LaporanStokAkhir.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FPm_LaporanUtangDagang.resx">
+      <DependentUpon>FPm_LaporanUtangDagang.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="F_LaporanPosisiKeuangan.resx">
+      <DependentUpon>F_LaporanPosisiKeuangan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="F_Login.resx">
+      <DependentUpon>F_Login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FPj_JurnalPenjuala.resx">
+      <DependentUpon>FPj_JurnalPenjuala.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FUser_KAGudang.resx">
+      <DependentUpon>FUser_KAGudang.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="F_PembelianHarian.resx">
+      <DependentUpon>F_PembelianHarian.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="F_PenjualanHarian.resx">
+      <DependentUpon>F_PenjualanHarian.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="F_UpdateDataKaryawan.resx">
+      <DependentUpon>F_UpdateDataKaryawan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="F_UpdateDataObat.resx">
+      <DependentUpon>F_UpdateDataObat.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="F_UpdateDataSupplier.resx">
+      <DependentUpon>F_UpdateDataSupplier.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="DB_PembelianDataSet.xsc">
+      <DependentUpon>DB_PembelianDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DB_PembelianDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DB_PembelianDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DB_PembelianDataSet.xss">
+      <DependentUpon>DB_PembelianDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="DB_Pembelian.accdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Untitled.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
